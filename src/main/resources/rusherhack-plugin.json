@@ -1,0 +1,13 @@
+{
+  "Plugin-Class": "Rusher.Phyrenos.PhyrenosUtils",
+  "Name": "Phyrenos Utils",
+  "Version": "${plugin_version}",
+  "Description": "Just some cool stuff",
+  "Authors": [
+    "phyrenos",
+    "John200410"
+  ],
+  "Minecraft-Versions": [
+    "1.20.1"
+  ]
+}
